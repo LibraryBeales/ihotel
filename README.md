@@ -1,2 +1,2 @@
 # ihotel
-Text Mining Exploration of Karen Yamashita's Novel
+Proposed Text Mining Exploration of Karen Yamashita's Novel
